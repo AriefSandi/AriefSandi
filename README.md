@@ -28,5 +28,5 @@
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-basic/visual-basic.png"></code>
   
   [![Stats](https://github-readme-stats.vercel.app/api?username=AriefSandi&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=AriefSandi&show_icons=true&theme=radical)
-  [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AriefSandi&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=AriefSandi&show_icons=true&theme=radical)
+  [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AriefSandi&show_icons=true&theme=radical&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=AriefSandi&show_icons=true&theme=radical&layout=compact)
   
