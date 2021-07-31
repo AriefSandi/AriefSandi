@@ -31,5 +31,5 @@
   
   [![Stats](https://github-readme-stats.vercel.app/api?username=AriefSandi&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=AriefSandi&show_icons=true&theme=radical)
   
-  [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AriefSandi&show_icons=true&theme=radical&exclude_repo=ariefsandi.github.io)](https://github-readme-stats.vercel.app/api/top-langs/?username=AriefSandi&show_icons=true&theme=radical)
+  [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AriefSandi&show_icons=true&theme=radical&exclude_repo=ariefsandi.github.io)](https://github-readme-stats.vercel.app/api/top-langs/?username=AriefSandi&show_icons=true&theme=radical&exclude_repo=ariefsandi.github.io)
   
