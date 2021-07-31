@@ -1,7 +1,7 @@
-  ### Hello World!  <img src="https://github.com/AriefSandi/AriefSandi/blob/master/assets/Hi.gif" width="29px">
+  ### Hello World!  <img src="https://raw.githubusercontent.com/AriefSandi/AriefSandi/main/assets/Hi.gif" width="29px">
   [![Visits Badge](https://badges.pufler.dev/visits/AriefSandi/AriefSandi)](https://badges.pufler.dev/visits/AriefSandi/AriefSandi)
   
-<img src="https://github.com/AriefSandi/AriefSandi/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
+<img src="https://raw.githubusercontent.com/AriefSandi/AriefSandi/main/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 <a href="https://ko-fi.com/ariefsandi88"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
   
   - 🔭 I'm currently studying in Surabaya, Indonesia
@@ -22,10 +22,10 @@
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/figma/figma.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-basic/visual-basic.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/figma/figma.png"></code>
   
   #### ✨ Github Stats <br />
   
