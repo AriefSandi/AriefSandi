@@ -4,7 +4,7 @@
 <a href="https://ko-fi.com/ariefsandi88"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
   
   - 🔭 I'm currently studying in Surabaya, Indonesia
-  - 🌱 I’m currently learning to become a software engineer
+  - 🌱 Currently learning to become a software engineer
   - 💬 Ask me about multiplayer FPS gaming and MMORPG game !!
   - 😄 Pronouns: He / Him
   
