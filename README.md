@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/AriefSandi/AriefSandi/main/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 <a href="https://ko-fi.com/ariefsandi88"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
   
-  - 🔭 I'm currently studying in Surabaya, Indonesia
+  - 🔭 I'm currently studying at Sepuluh Nopember Institute of Technology, Indonesia
   - 🌱 Currently learning to become a software engineer
   - 💬 Ask me about multiplayer FPS gaming and MMORPG game !!
   - 😄 Pronouns: He / Him
