@@ -68,7 +68,7 @@ I’m always open to research collaborations, code contributions, or software en
   
   #### ✨ Github Stats <br />
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=ariefsandi&theme=onedark&no-bg=true&rank=-C,-B,-Unknown)]
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ariefsandi&theme=onedark&no-bg=true&rank=-C,-B,-Unknown&&title=-Issues,-Reviews)]
 
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ariefsandi&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide=issues)
 
