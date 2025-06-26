@@ -68,6 +68,8 @@ I’m always open to research collaborations, code contributions, or software en
   
   #### ✨ Github Stats <br />
 
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ariefsandi&show_icons=true&theme=gruvbox&count_private=true&include_all_commits=true&hide=issues&cache_seconds=3600)
+
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ariefsandi&show_icons=true&theme=gruvbox&count_private=true&include_all_commits=true&hide=issues)
 
   [![Stats](https://github-readme-stats.vercel.app/api?username=AriefSandi&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=AriefSandi&show_icons=true&theme=radical)
