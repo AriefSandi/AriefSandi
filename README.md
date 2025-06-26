@@ -1,5 +1,5 @@
   ### Hello World!  <img src="https://raw.githubusercontent.com/AriefSandi/AriefSandi/main/assets/Hi.gif" width="29px">
-  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=AriefSandi/AriefSandi)
+  
   ![Visitor Count](https://profile-counter.glitch.me/AriefSandi/count.svg)
 <img src="https://raw.githubusercontent.com/AriefSandi/AriefSandi/main/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 <a href="https://ko-fi.com/ariefsandi88"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
