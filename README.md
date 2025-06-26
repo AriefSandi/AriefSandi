@@ -2,6 +2,7 @@
   ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=AriefSandi/AriefSandi)
 <img src="https://raw.githubusercontent.com/AriefSandi/AriefSandi/main/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 <a href="https://ko-fi.com/ariefsandi88"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
+
   I’m a PhD student in Information Systems at Institut Teknologi Sepuluh Nopember (ITS), currently researching **renewable energy systems**—specifically, the optimization of **biomass cogeneration** in Indonesia’s sugar industry using system dynamics simulation.
   With a strong foundation in systems thinking, modeling, and data analysis, I’m also passionate about building scalable and impactful software to support decision-making in sustainability, energy, and industrial operations.
 
