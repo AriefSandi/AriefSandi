@@ -13,7 +13,7 @@
 🔬 **Research Interests**  
 - Biomass-based cogeneration systems  
 - System Dynamics Modeling & Simulation  
-- Model-driven Decision Support Systems  
+- Data-driven & Model-driven Decision Support Systems  
 - Industrial Sustainability & Energy Transition  
 - Software-augmented research and applied analytics
 
