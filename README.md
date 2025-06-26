@@ -7,12 +7,49 @@
   
   With a strong foundation in systems thinking, modeling, and data analysis, I’m also passionate about building scalable and impactful software to support decision-making in sustainability, energy, and industrial operations.
 
-  - 🔭 I'm currently studying at Sepuluh Nopember Institute of Technology, Indonesia
-  - 🌱 Currently learning to become a software engineer
-  - 💬 Ask me about multiplayer FPS gaming and MMORPG game !!
-  - 😄 Pronouns: He / Him
-  
-  #### 📫 How to reach me:
+---
+
+🔬 **Research Interests**  
+- Biomass-based cogeneration systems  
+- System Dynamics Modeling & Simulation  
+- Model-driven Decision Support Systems  
+- Industrial Sustainability & Energy Transition  
+- Software-augmented research and applied analytics
+
+---
+
+💻 **Technical & Software Engineering Skills**  
+- **Python** – data modeling, simulation, automation  
+- **JavaScript & Node.js** – backend APIs, microservices  
+- **React.js & Next.js** – modern web app development  
+- **SQL & MongoDB** – relational and NoSQL data handling  
+- **Vensim & AnyLogic** – dynamic system simulation  
+- **Git & GitHub** – version control & collaborative development  
+- **REST API Design**, data pipelines, dashboard prototyping  
+- Experience with **Agile/Scrum**, unit testing, and CI/CD  
+- Strong academic writing & technical documentation skills
+
+---
+
+🛠️ **What I'm Working On**
+
+🚀 Building a system dynamics simulation model to optimize biomass-based cogeneration in the sugar industry — focusing on energy efficiency, seasonal supply dynamics, and biomass diversification.
+
+💡 Designing a web-based decision support system (DSS) that integrates dynamic models and real-time data to assist industry stakeholders in making informed energy policy and operational decisions.
+
+🧪 Developing modular, reusable Python components for simulation, scenario analysis, and policy evaluation — open for collaboration and contributions.
+
+🌐 Prototyping a lightweight web dashboard (React + Node.js) for visualizing energy production, resource utilization, and strategic KPIs in industrial settings.
+
+📄 Publishing scientific findings and software artifacts related to sustainable energy systems, digital transformation, and model-based decision support.
+
+🧩 Exploring intersections between system thinking, software engineering, and sustainability to produce tools that are not only academically sound, but also practically deployable.
+
+---
+
+📫 **Let’s Connect**  
+I’m always open to research collaborations, code contributions, or software engineering opportunities that intersect with sustainability, data, or systems design. Feel free to explore my repositories or reach out directly!
+
   
   [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/itsmesan_)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/ariefsandi10/)  &nbsp;  [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/ariefsandi88/)  &nbsp; <a href="mailto:ariefsandi10@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
   
